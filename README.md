@@ -1,4 +1,7 @@
 # Projeto de Monitoramento da Qualidade da Água com Arduino
+## Link para o projeto:
+https://wokwi.com/projects/399824217708896257
+
 ## Introdução
 Este projeto visa desenvolver um sistema de monitoramento da qualidade da água utilizando a plataforma Arduino. O sistema mede a temperatura e o pH da água, exibindo os dados em um display LCD. Além disso, gera alertas quando os níveis de pH estão fora da faixa ideal para a saúde dos peixes.
 
